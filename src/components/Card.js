@@ -137,7 +137,7 @@ function Card() {
 
             <div className="flex justify-start w-fit mt-5 2xl:mt-10 mb-[12px]">
               <a
-                href="#"
+                href="#this-doesnt-go-anywhere-stop-pressing-it"
                 className="bg-secondary hover:brightness-[0.9] text-primary py-2 px-4 rounded-3xl text-sm 2xl:text-base font-semibold inline-block"
               >
                 Check out my stuff (coming soon)
