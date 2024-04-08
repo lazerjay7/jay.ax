@@ -105,7 +105,7 @@ function Card() {
                 <FaDiscord />
               </a>
               <a
-                href="mailto:jay@lazerjay7.dev"
+                href="mailto:jay@lazerjay.dev"
                 className="text-text-bright hover:text-secondary mr-2 text-base 2xl:text-lg"
               >
                 <MdEmail />
@@ -127,7 +127,7 @@ function Card() {
                 about
               </h3>
               <p className="text-base 2xl:text-lg text-text-bright mt-1">
-                Hi. I'm Jay. I'm a 16 year old student from the UK. I'm a
+                Hi. I'm Jay. I'm a 17 year old student from the UK. I'm a
                 self-taught developer with a passion for Networking and
                 Server Administration. I'm currently working on a few projects
                 which you will be able to find on this site in the coming months,
